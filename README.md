@@ -36,8 +36,8 @@ Run the project.
 SMTP Configuration (example in appsettings.json):
 
 "SmtpSettings": {
-  "FromEmail": "yourgmail@gmail.com",
-  "AppPassword": "yourapppassword"
+"FromEmail": "yourgmail@gmail.com",
+"AppPassword": "yourapppassword"
 }
 
 
