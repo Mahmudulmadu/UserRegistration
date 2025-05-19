@@ -6,6 +6,7 @@ After successful registration, an automated confirmation email is sent to the us
 Features:
 
 User registration form
+
 Email validation and duplicate check
 Confirm password validation
 Email confirmation using Gmail SMTP
